@@ -56,7 +56,6 @@ iv) Perform face detection with label in real-time video from webcam.
 
 ### PROGRAM:
 ```
-I) ROI Segmentation in an Image using Bitwise AND
 
 import cv2
 import numpy as np
